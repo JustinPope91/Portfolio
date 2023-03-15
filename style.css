@@ -17,11 +17,11 @@ body{
     font-weight: bold;
 }
 
-About{
+.About{
     text-align: right;
 }
 
-Projects{
+.Projects{
     text-align: right;
 }
 
@@ -72,4 +72,10 @@ ABOUT
 
 #about .icons a{
    color: black;
+}
+
+
+ul.navbar-nav.ms-auto.mb-2 {
+    position: relative;
+    left: 90%;
 }
