@@ -6,6 +6,7 @@ COMMON
 
 body{
     font-family: "Monspace",sans-seriff;
+    width: 100%;
 }
 
 .font-primary{
@@ -38,6 +39,10 @@ h2{
 a.font-black{
     color: #000 !important;
 } 
+
+ul.navbar-nav.ms-auto.mb-2 {
+    left: 0;
+}
 
 
 /************
